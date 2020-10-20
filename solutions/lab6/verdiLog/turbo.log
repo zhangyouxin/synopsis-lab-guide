@@ -1,0 +1,3 @@
+Command Line: /tools/synopsys/verdi/verdi/Verdi_O-2018.09-SP2/platform/LINUXAMD64/bin/Novas -play debug_files/packet.cmd -nologo
+uname(Linux syn-eda 2.6.32-754.33.1.el6.x86_64 #1 SMP Tue Aug 25 15:29:40 UTC 2020 x86_64)
+au time 325.968021 4.794271 1.465777 delta 389222400 389222400 total 808763392 808763392
